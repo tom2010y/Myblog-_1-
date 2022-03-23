@@ -1,0 +1,15 @@
+#app
+{
+    background-color: aliceblue;
+}
+.line
+{
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
+#games
+{
+    background-color: lightcoral;
+}
